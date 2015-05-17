@@ -1,4 +1,4 @@
-app.directive=('game', function() {
+app.directive('game', function() {
   return {
     restrict: 'E',
     scope: {
